@@ -144,6 +144,13 @@ LEvSL <-ggplot(hr, aes(x=satLevel, y=lastEval))
 LEvSL + geom_point()
 LEvSL + stat_binhex() + scale_fill_gradient(low="lightblue", high="red")
 
+# Example of a Bagplot
+#install.packages("aplpack")
+#library(aplpack)
+
+bagplot(avgHrs/4, satLevel, xlab="Avg Weekly Hrs", ylab="SatLevel",
+  main="Bagplot Avg Hours by Sat Level")
+
 #Create the binary variable for highly rated but low satisfaction users
 
 hr$greatEvalLowSat <- ifelse(lastEval>0.8 & satLevel <0.2, 1, 0)

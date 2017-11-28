@@ -8,7 +8,7 @@ Instructions start here: https://www.littlemissdata.com/blog/predictive-analytic
 
 - [Tutorial 2: Exploratory Data Analysis or EDA](https://www.littlemissdata.com/blog/predictive-analytics-tutorial-part-2)
 
-- Tutorial 3: Transform - Coming Soon!
+- [Tutorial 3: Transform - Coming Soon!](https://www.littlemissdata.com/blog/predictive-analytics-tutorial-part-3)
 
 - Tutorial 4:  Model, Assess and Implement - Coming Soon! 
 

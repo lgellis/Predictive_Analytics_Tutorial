@@ -341,8 +341,8 @@ which.max (reg.summary$adjr2 )#just for fun
 
 
 #Plot the variable adjusted r squared values by number of variables
-plot(reg.summary$BIC ,xlab=" Number of Variables ",ylab=" BIC",type="l")
-points (6, reg.summary$adjr2 [6], col =" red",cex =2, pch =20)
+plot(reg.summary$bic ,xlab=" Number of Variables ",ylab=" BIC",type="l")
+points (6, reg.summary$bic [6], col =" red",cex =2, pch =20)
 
 coef(model.bestSub, 6)
 

@@ -332,8 +332,6 @@ modelMetrics
 
 model.bestSub=regsubsets(avgHrs ~ ., train, nvmax =25)
 
-# regsubsets(perf ~ syct + mmin + mmax + cach + chmin + chmax, data = cpus, nvmax = 4)
-
 summary(model.bestSub)
 
 reg.summary =summary(model.bestSub)

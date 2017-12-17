@@ -1,4 +1,6 @@
 
+#Full description of code and analysis can be found at: https://www.littlemissdata.com/blog/predictive-analytics-tutorial-part-1
+
 # If you are using local R install:
     #You can download the file from https://raw.githubusercontent.com/lgellis/Predictive_Analytics_Tutorial
     #and use the following line of code to import: 

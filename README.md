@@ -10,6 +10,6 @@ Instructions start here: https://www.littlemissdata.com/blog/predictive-analytic
 
 - [Tutorial 3: Transform ](https://www.littlemissdata.com/blog/predictive-analytics-tutorial-part-3)
 
-- Tutorial 4:  Model, Assess and Implement - Coming Soon! 
+- [Tutorial 4:  Model, Assess and Implement - Coming Soon!](https://www.littlemissdata.com/blog/predictive-analytics-tutorial-part-4)
 
 Data set sourced from Kaggle - https://www.kaggle.com/ludobenistant/hr-analytics
